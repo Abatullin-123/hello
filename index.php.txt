@@ -1,0 +1,14 @@
+{   "startDate":"2019-01-01",
+   "endDate":"2019-12-31",
+   "planName":"yearPlanToQuarters",
+   "useCarPoolCapacity":true,
+   "usePassengerDemands":true,
+   "useDivisionPlans": true,
+   "timeMinutesLimit":30, 
+  "lostPassengerWeight":1000,
+   "overPassengerWeight": 1,
+    "seatKmLowWeight": 10,  
+ "seatKmHighWeight": 10,  
+ "carKmLowWeight": 3,  
+ "carKmHighWeight": 3
+ }
